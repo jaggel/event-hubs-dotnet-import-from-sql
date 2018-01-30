@@ -113,3 +113,5 @@ UpgradeLog*.XML
 
 #Thumbs.db
 Thumbs.db
+/.vs
+/UpgradeLog.htm
